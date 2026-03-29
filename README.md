@@ -1,16 +1,49 @@
-# zen_clock
+# 🧘 Zen Clock
 
-A new Flutter project.
+A minimal, distraction-free desktop clock built with Flutter for Windows.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 Download
 
-A few resources to get you started if this is your first Flutter project:
+👉 [Download Zen Clock for Windows](https://github.com/ajeesh1989/ZenClock-for-Windows/releases/latest)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## ✨ Features
+
+- 🕒 Always-on desktop clock
+- 🌙 Minimal Zen-style UI
+- ⚡ Lightweight performance
+- 🎯 Focus-friendly design
+- 🎨 Smooth animations
+
+---
+
+## 🖥️ About
+
+Zen Clock is designed to reduce distractions and help you stay focused with a clean and elegant time display.
+
+Built using **Flutter Windows**.
+
+---
+
+## 📦 Installation
+
+1. Download the latest release
+2. Extract (if zip)
+3. Run `ZenClock.exe`
+4. Enjoy focus mode 🧘
+
+---
+
+## 🔮 Future Ideas
+
+- Pomodoro timer mode
+- Always-on-top widget mode
+- Themes (dark/light/zen modes)
+- Sound-based focus alerts
+
+---
+
+Made with ❤️ using Flutter
